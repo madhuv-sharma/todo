@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "liveserver": "^0.1.20",
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14"
+  }
+}
